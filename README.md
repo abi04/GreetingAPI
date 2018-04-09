@@ -6,7 +6,7 @@ The greeting API has one endpoint that validates the JWT token and responds with
 
 ### Get /validate
 
-Validate JWT token . Accepts header with key *authorization* and value **Bearer <Access-Token>**
+Validate JWT token . Accepts header with key *authorization* and value **Bearer ``<Access-Token>``**
 
 Following is the response object for verified JWT token
 ```
